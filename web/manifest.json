@@ -1,0 +1,11 @@
+{
+  "name": "Profile Card App",
+  "short_name": "ProfileCard",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#E0F2F1",
+  "theme_color": "#009688",
+  "description": "Profile Card App for college project",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
